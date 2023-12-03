@@ -13,7 +13,7 @@ namespace BonkHitSfxFixed
     {
         private const string modGUID = "rafl.BonkHitSfxFixed";
         private const string modName = "Bonk Hit SFX (Fixed)";
-        private const string modVersion = "1.0.1";
+        private const string modVersion = "1.0.2";
 
 
         private readonly Harmony harmony = new Harmony(modGUID);
