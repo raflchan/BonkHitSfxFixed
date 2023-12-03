@@ -5,5 +5,8 @@ Inspired by [sunnobunno's BonkHitSFX](https://thunderstore.io/c/lethal-company/p
 
 ## Changelog
 
+### v1.0.1
+- Fixed the sound not playing in certain situations
+
 ### v1.0.0
 - Initial

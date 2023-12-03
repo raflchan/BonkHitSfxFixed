@@ -4,9 +4,6 @@ using BonkHitSfxFixed.Patches;
 using HarmonyLib;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using UnityEngine;
 
 namespace BonkHitSfxFixed
@@ -16,7 +13,7 @@ namespace BonkHitSfxFixed
     {
         private const string modGUID = "rafl.BonkHitSfxFixed";
         private const string modName = "Bonk Hit SFX (Fixed)";
-        private const string modVersion = "1.0.0";
+        private const string modVersion = "1.0.1";
 
 
         private readonly Harmony harmony = new Harmony(modGUID);

@@ -1,6 +1,6 @@
 {
     "name": "BonkHitSfxFixed",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/raflchan/BonkHitSfxFixed",
     "description": "Replaces the shovel hit sound with the bonk sound.",
     "dependencies": [
