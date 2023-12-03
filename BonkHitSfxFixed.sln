@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34322.80
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonkHitSfxFixed", "BonkHitSfxFixed.csproj", "{BA2313FF-01F6-4363-962E-35251B690054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA2313FF-01F6-4363-962E-35251B690054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA2313FF-01F6-4363-962E-35251B690054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA2313FF-01F6-4363-962E-35251B690054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA2313FF-01F6-4363-962E-35251B690054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5D8EF2-26D7-4EA8-AE05-47CA198D5A51}
+	EndGlobalSection
+EndGlobal

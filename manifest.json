@@ -1,0 +1,9 @@
+{
+    "name": "BonkHitSfxFixed",
+    "version_number": "1.0.0",
+    "website_url": "TODO",
+    "description": "Replaces the shovel hit sound with the bonk sound.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
